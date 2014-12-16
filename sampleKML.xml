@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>sampleKML</name>
+<LookAt>
+<longitude>8.05287194234552</longitude>
+<latitude>46.6745049596464</latitude>
+</LookAt>
+<visibility>1</visibility>
+<open>0</open>
+<Style>
+<LineStyle><color>ff00ffff</color><width>4</width></LineStyle>
+</Style>
+<LineString><altitudeMode>clampToGround</altitudeMode>
+<coordinates>
+8.052871666666666,46.674505,0.0
+8.050521666666667,46.667699999999996,0.0
+8.050608333333333,46.664991666666666,0.0
+8.053343333333334,46.661723333333335,0.0
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
